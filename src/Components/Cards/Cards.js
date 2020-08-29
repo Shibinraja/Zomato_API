@@ -26,7 +26,7 @@ class Cards extends Component {
                    <div style = {this.styles()} className="collapse navbar-collapse" id="navbarSupportedContent">
                        <ul className="navbar-nav mr-auto">
                            <li className="nav-item active">
-                               <a className="nav-link" style = {{color:"white"}} href="<Navbatr/>">Home <span className="sr-only">(current)</span></a>
+                               <a className="nav-link" style = {{color:"white"}} href="<Navbar/>">Home <span className="sr-only">(current)</span></a>
                            </li>
                            <li className="nav-item active">
                                <a className="nav-link" style = {{color:"white" , paddingLeft:"50px"}} href="<Navbar/>">Sign In</a>

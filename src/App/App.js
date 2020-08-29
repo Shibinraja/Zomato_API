@@ -6,7 +6,6 @@ import Body from '../Components/Body/Body';
 import Search from '../Components/Search/Search.js';
 import food from './home_page_bg.jpg';
 import Results from '../Components/Results/Results.js';
-import Cards from '../Components/Cards/Cards.js';
 import axios from 'axios'
 
 
